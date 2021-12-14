@@ -24,7 +24,7 @@
 		<jetty.version>9.3.11.v20160721</jetty.version>
 		<jpa.version>2.1.1</jpa.version>
 		<junit.version>4.12</junit.version>
-		<log4j.version>2.5</log4j.version>
+		<log4j.version>2.16.0</log4j.version>
 		<mysql.connector.version>5.1.36</mysql.connector.version>
 		<pebble.version>1.6.0</pebble.version>
 		<spring.version>4.1.7.RELEASE</spring.version>
